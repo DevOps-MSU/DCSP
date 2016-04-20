@@ -1,0 +1,34 @@
+body {
+    background-color: #111111;
+}
+
+.navbar-fixed-top {
+    background-color: #800000;
+    border-radius: 10px;
+    box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+
+.jumbotron .container {
+    background-color: #800000;
+    color: #ffffff;
+    border-radius: 20px;
+    box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+
+.jumbotron {
+    background-color: #111111;
+    box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+
+.container .row {
+    background-color: #800000;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.container {
+    background-color: #800000;
+    color: #ffffff;
+    border-radius: 20px;
+    box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
