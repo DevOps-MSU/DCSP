@@ -20,7 +20,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body>
+<body>     
 <nav class="navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
@@ -34,14 +34,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <form class="navbar-form navbar-right">
-                <div class="form-group">
-                    <input type="text" placeholder="Username" class="form-control">
-                </div>
-                <div class="form-group">
-                    <input type="password" placeholder="Password" class="form-control">
-                </div>
-                <button type="submit" class="btn btn-primary"><a href="index-loggedIn.php" style="color:white;text-decoration:none;">Sign in</a></button>
-                <button type="submit" class="btn btn-primary"><a href="register.php" style="color:white;text-decoration:none;">Register</a></button>
+                <button type="submit" class="btn btn-primary"><a href="index.php" style="color:white;text-decoration:none;">Logout</a></button>
             </form>
         </div><!--/.navbar-collapse -->
     </div>
@@ -55,7 +48,6 @@
         <p><a class="btn btn-primary btn-lg" href="apply.php" role="button">Apply Today &raquo;</a></p>
     </div>
 </div>
-
 <div class="container">
     <!-- Example row of columns -->
     <div class="row">
@@ -67,7 +59,7 @@
         <div class="col-md-4">
             <h2>Profile Page</h2>
             <p>Make sure we have your correct information. Check and update your profile here.</p>
-            <p><a class="btn btn-default" href="profile-app.php" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="Profile.html" role="button">View details &raquo;</a></p>
         </div>
     </div>
     <hr>
